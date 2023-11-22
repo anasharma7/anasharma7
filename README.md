@@ -1,10 +1,6 @@
 <h3 align="center">A passionate front-end wizard and UX/UI alchemist</h3>
-<img align=“right” alt=“Working” width=“400” src=“https://dribbble.com/shots/11086928-Working-girl”>
-[![MasterHead](https://github.com/anasharma7/anasharma7/blob/main/Screenshot%202023-11-22%20at%205.02.57%20PM.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasharma7&label=Profile%20views&color=0e75b6&style=flat" alt="anasharma7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasharma7" alt="anasharma7" /></a> </p>
 
 - 🌱 I’m currently learning **React, JSON, REST APIs**
 
