@@ -1,6 +1,8 @@
 <h3 align="center">A passionate front-end wizard and UX/UI alchemist</h3>
-<br><br>
-<img align="right" alt="Working" width="400" src="https://i.gifer.com/Ry6p.gif">
+
+<div align="center">
+    <img src="./Ry6p.gif" alt="gif" width="400" />
+</div>
 
 
 <!-- Add some space between the first and second image -->
