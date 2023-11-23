@@ -1,5 +1,5 @@
 <h3 align="center">A passionate front-end wizard and UX/UI alchemist</h3>
-<img align="right" alt="Working" width="400" src="https://dribbble.com/shots/11086928-Working-girl">
+<img align="right" alt="Working" width="400" src="[https://dribbble.com/shots/11086928-Working-girl](https://dribbble.com/shots/11086928-Working-girl#)">
 
 <!-- Add some space between the first and second image -->
 <br><br>
