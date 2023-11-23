@@ -1,7 +1,10 @@
 <h3 align="center">A passionate front-end wizard and UX/UI alchemist</h3>
-<img align="right" alt="Working" width="400" src="[https://dribbble.com/shots/11086928-Working-girl](https://dribbble.com/shots/11086928-Working-girl#)">
+<br><br>
+<img align="right" alt="Working" width="400" src="https://i.gifer.com/Ry6p.gif">
+
 
 <!-- Add some space between the first and second image -->
+<br><br>
 <br><br>
 
 [![MasterHead](./banner.png)](#)
