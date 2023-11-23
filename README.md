@@ -1,6 +1,7 @@
 <h3 align="center">A passionate front-end wizard and UX/UI alchemist</h3>
-<img align=“right” alt=“Working” width=“400” src=“https://dribbble.com/shots/11086928-Working-girl”>
-[![MasterHead](https://www.figma.com/file/X77KquYC6Up6XhoT2dY2sW/githubbanner?type=design&node-id=0-1&mode=design&t=R19SYSUY77hJMAYI-0)
+<img align="right" alt="Working" width="400" src="https://dribbble.com/shots/11086928-Working-girl">
+
+[![MasterHead](./banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasharma7&label=Profile%20views&color=0e75b6&style=flat" alt="anasharma7" /> </p>
 
