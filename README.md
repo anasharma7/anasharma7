@@ -1,6 +1,6 @@
 <h3 align="center">A passionate front-end wizard and UX/UI alchemist</h3>
 <img align=“right” alt=“Working” width=“400” src=“https://dribbble.com/shots/11086928-Working-girl”>
-[![MasterHead](https://github.com/anasharma7/anasharma7/blob/main/Screenshot%202023-11-22%20at%205.02.57%20PM.png)
+[![MasterHead](https://www.figma.com/file/X77KquYC6Up6XhoT2dY2sW/githubbanner?type=design&node-id=0-1&mode=design&t=R19SYSUY77hJMAYI-0)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasharma7&label=Profile%20views&color=0e75b6&style=flat" alt="anasharma7" /> </p>
 
