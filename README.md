@@ -1,24 +1,6 @@
 <h3 align="center">A passionate front-end wizard and UX/UI alchemist</h3>
 
-<div align="center">
-    <img src="./Ry6p.gif" alt="gif" width="400" />
-</div>
 
-
-<!-- Add some space between the first and second image -->
-<br><br>
-<br><br>
-
-[![MasterHead](./banner.png)](#)
-
-<h2 align="center">Hi, I'm Ananya Sharma 👋</h2>
-<h3 align="center">Cybersecurity | UX/UI | Network Science</h3>
-
-<div align="center">
-    <img src="./Ry6p.gif" alt="Creative Cybersecurity Enthusiast" width="400" />
-</div>
-
----
 
 ### 🚀 About Me
 - 🎓 **Master’s in Cybersecurity** @ UNC Charlotte  
