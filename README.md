@@ -6,7 +6,7 @@
 - 🎓 **Master’s in Cybersecurity** @ UNC Charlotte  
 - 🎨 **UX/UI & HCI Background** from Penn State  
 - 🔍 **Exploring IoMT Security, Network Science, and Disinformation Detection**  
-- 🤝 Open to **collaborations in AI/ML-driven security projects & UX research**  
+- 🤝🏾 Open to **collaborations in AI/ML-driven security projects & UX research**  
 - 🛠 Currently working on **data privacy, misinformation networks, and AI-powered security**  
 - ⚡ Beyond tech, I enjoy **painting, music, horseback riding, and perfumery**  
 
