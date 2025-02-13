@@ -20,10 +20,11 @@
 ## **✨ Where Security Meets Seamless Design**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anasharma7&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://streak-stats.demolab.com/?user=anasharma7&theme=radical" height="180px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anasharma7&theme=darkhub"/>
 </p>
 
 ---
+
 
 ### 🔗 **Connect With Me**
 [📬 Email](mailto:aanasharma15@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/anasharma15/) | [🌍 Portfolio](your-portfolio-link)  
