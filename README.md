@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Ananya Sharma 👋</h2>
+<h2 align="center"> Ananya Sharma </h2>
 <h3 align="center">A Cybersecurity Architect and UX/UI Alchemist</h3>
 
 <div align="center">
