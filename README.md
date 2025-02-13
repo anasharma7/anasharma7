@@ -1,6 +1,11 @@
-<h3 align="center">A passionate front-end wizard and UX/UI alchemist</h3>
+<h2 align="center">Hi, I'm Ananya Sharma 👋</h2>
+<h3 align="center">A Cybersecurity Architect and UX/UI Alchemist</h3>
 
+<div align="center">
+    <img src="./Ry6p.gif" alt="Creative Cybersecurity Enthusiast" width="400" />
+</div>
 
+---
 
 ### 🚀 About Me
 - 🎓 **Master’s in Cybersecurity** @ UNC Charlotte  
@@ -9,6 +14,14 @@
 - 🤝🏾 Open to **collaborations in AI/ML-driven security projects & UX research**  
 - 🛠 Currently working on **data privacy, misinformation networks, and AI-powered security**  
 - ⚡ Beyond tech, I enjoy **painting, music, horseback riding, and perfumery**  
+
+---
+
+## **✨ Where Security Meets Seamless Design**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anasharma7&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://streak-stats.demolab.com/?user=anasharma7&theme=radical" height="180px"/>
+</p>
 
 ---
 
@@ -25,13 +38,7 @@
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasharma7&show_icons=true&theme=dark" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasharma7&theme=dark" height="180px"/>
-</p>
-
----
-
 ### 🖥 **Featured Projects**
 🚧 *Adding my CodePen works soon...*  
+
+---
