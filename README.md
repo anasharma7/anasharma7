@@ -44,10 +44,11 @@ I build and ship production-ready systems that integrate automated AI pipelines 
   <img src="./data-glitch.gif" width="100%" />
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=anasharma7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00CCFF&title_color=00CCFF&text_color=00CCFF" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anasharma7&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=00CCFF&title_color=00CCFF&text_color=00CCFF&cache_buster=123" height="150" />
 </div>
 
 ---
 
 ### 🔗 Connectivity
 [LinkedIn](https://www.linkedin.com/in/anasharma15/) | [Email](mailto:aanasharma15@gmail.com)
+
