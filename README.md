@@ -47,17 +47,7 @@ I build and ship production-ready systems that integrate automated AI pipelines 
 - **Development:** Python (FastAPI/Flask), JavaScript (React/Next.js), Swift, Java, SQL
 - **Systems & Security:** Network Traffic Analysis, IoMT Security, Digital Forensics, Linux
 - **Visual Engineering:** Figma, Procreate, HCI Principles, System Visualization
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00CCFF&height=60&section=footer" width="100%" />
   
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=anasharma7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00CCFF&text_color=00CCFF&title_color=00CCFF" height="165px"/>
-</div>
-
 ---
 
 ### 🔗 Connectivity
