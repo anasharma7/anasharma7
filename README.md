@@ -1,45 +1,38 @@
 <h2 align="center"> Ananya Sharma </h2>
-<h3 align="center">A Cybersecurity Architect and UX/UI Alchemist</h3>
+<h3 align="center">Engineer & Implementer</h3>
 
 <div align="center">
-    <img src="./Ry6p.gif" alt="Creative Cybersecurity Enthusiast" width="400" />
+    <img src="./Ry6p.gif" alt="Implementation & Engineering" width="450" />
 </div>
 
----
-
-### 🚀 About Me
-- 🎓 **Master’s in Cybersecurity** @ UNC Charlotte  
-- 🎨 **UX/UI & HCI Background** from Penn State  
-- 🔍 **Exploring IoMT Security, Network Science, and Disinformation Detection**  
-- 🤝🏾 Open to **collaborations in AI/ML-driven security projects & UX research**  
-- 🛠 Currently working on **data privacy, misinformation networks, and AI-powered security**  
-- ⚡ Beyond tech, I enjoy **painting, music, horseback riding, and perfumery**  
-
----
-
-## **✨ Where Security Meets Seamless Design**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasharma7&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=anasharma7&theme=darkhub"/>
+  <i>Bridging the gap between secure architecture and high-velocity product implementation.</i>
 </p>
 
 ---
 
+### ⚡ Current Focus
+I build and ship production-ready systems that integrate automated AI pipelines with growth-driven infrastructure.
 
-### 🔗 **Connect With Me**
-[📬 Email](mailto:aanasharma15@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/anasharma15/) | [🌍 Portfolio](your-portfolio-link)  
-
----
-
-### 🛠 **Tech & Tools I Work With**
-- **Languages**: Python, Java, SQL, JavaScript  
-- **Security & Networking**: Wireshark, VirtualBox, NetworkX, Gephi  
-- **UX/UI & Design**: Figma, Adobe XD, Prototyping  
-- **Cloud & DevOps**: Docker, AWS, Git/GitHub  
+- **AI Operations:** Engineering automated AEO/SEO pipelines and LLM-integrated workflows.
+- **Product Implementation:** Shipping high-fidelity, experiment-ready landing pages and reporting systems.
+- **Applied Security:** Implementing automated QA, secure data privacy protocols, and network analysis.
 
 ---
 
-### 🖥 **Featured Projects**
-🚧 *Adding my CodePen works soon...*  
+### 🛠 Core Stack
+- **Development:** Python (FastAPI/Flask), JavaScript (React/Next.js), Swift, Java, SQL
+- **Systems & Security:** Network Traffic Analysis, IoMT Security, Digital Forensics, Linux
+- **Visual Engineering:** Figma, Procreate (High-Fidelity UI/UX), HCI Principles, System Visualization
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anasharma7&show_icons=true&theme=radical&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasharma7&layout=compact&theme=radical&hide_border=true" height="165px"/>
+</p>
+
+---
+
+### 🔗 Connectivity
+[LinkedIn](https://www.linkedin.com/in/anasharma15/) | [Email](mailto:aanasharma15@gmail.com) | [Portfolio](your-portfolio-link)
