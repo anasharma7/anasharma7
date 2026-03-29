@@ -1,18 +1,20 @@
-<h2 align="center"> Ananya Sharma </h2>
-<h3 align="center">Engineer & Implementer</h3>
-
 <div align="center">
-    <img src="./Ry6p.gif" alt="Implementation & Engineering" width="450" />
+  <img src="./header.svg" alt="Ana Sharma" width="600" />
+
+  <br />
+
+  <img src="./Ry6p.gif" alt="Implementation & Engineering" width="450" />
 </div>
 
 <p align="center">
+  <b>Engineer & Implementer</b><br />
   <i>Bridging the gap between secure architecture and high-velocity product implementation.</i>
 </p>
 
 ---
 
 ### ⚡ Current Focus
-I build and ship production-ready systems that integrate automated AI pipelines with growth-driven infrastructure.
+Building and shipping production-ready systems that integrate automated AI pipelines with growth-driven infrastructure.
 
 - **AI Operations:** Engineering automated AEO/SEO pipelines and LLM-integrated workflows.
 - **Product Implementation:** Shipping high-fidelity, experiment-ready landing pages and reporting systems.
@@ -21,7 +23,7 @@ I build and ship production-ready systems that integrate automated AI pipelines 
 ---
 
 ### 🛠 Core Stack
-- **Development:** Python (FastAPI/Flask), JavaScript (React/Next.js), Swift, Java, SQL
+- **Development:** Python, JavaScript (React/Next.js), Swift, Java, SQL
 - **Systems & Security:** Network Traffic Analysis, IoMT Security, Digital Forensics, Linux
 - **Visual Engineering:** Figma, Procreate (High-Fidelity UI/UX), HCI Principles, System Visualization
 
@@ -35,4 +37,4 @@ I build and ship production-ready systems that integrate automated AI pipelines 
 ---
 
 ### 🔗 Connectivity
-[LinkedIn](https://www.linkedin.com/in/anasharma15/) | [Email](mailto:aanasharma15@gmail.com) | [Portfolio](your-portfolio-link)
+[LinkedIn](https://www.linkedin.com/in/anasharma15/) | [Email](mailto:aanasharma15@gmail.com)
