@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./header.svg" alt="Ana Sharma" width="600" />
+  <img src="./header.svg" width="600" />
   <br />
-  <img src="./Ry6p.gif" alt="Technical Logic" width="250" />
+  <img src="./Ry6p.gif" width="250" />
   <br />
   <br />
   <b>Engineer & Implementer</b><br />
@@ -41,7 +41,7 @@ I build and ship production-ready systems that integrate automated AI pipelines 
 ---
 
 <div align="center">
-  <img src="./data-glitch.gif" width="100%" alt="Data Visualization" />
+  <img src="./data-glitch.gif" width="100%" />
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=anasharma7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00CCFF&title_color=00CCFF&text_color=00CCFF" height="150" />
