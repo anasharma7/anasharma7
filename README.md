@@ -5,7 +5,7 @@
   <br />
   <br />
   <b>Cybersecurity × AI × Human-Centered Technology</b><br />
-  <i>Shipping secure, high-velocity AI & Product infrastructure.</i>
+  <i>I want to know what's underneath the interface.</i>
   <br />
   <br />
   <img src="https://img.shields.io/badge/Python-00CCFF?style=for-the-badge&logo=python&logoColor=black" />
