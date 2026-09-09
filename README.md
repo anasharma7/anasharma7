@@ -4,7 +4,7 @@
   <img src="./Ry6p.gif" width="250" />
   <br />
   <br />
-  <b>Engineer & Implementer</b><br />
+  <b>Cybersecurity × AI × Human-Centered Technology</b><br />
   <i>Shipping secure, high-velocity AI & Product infrastructure.</i>
   <br />
   <br />
