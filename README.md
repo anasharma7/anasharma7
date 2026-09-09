@@ -34,20 +34,20 @@ And how we make those systems harder to break.
 ---
 
 **◇ Current Stack**
-Languages        Python · JavaScript · Java · C++ · Swift · SQL
+Languages                          Python · JavaScript · Java · C++ · Swift · SQL
 
-Applications     React · Next.js · Django · FastAPI
+Applications                       React · Next.js · Django · FastAPI
 
-AI               LangChain · LangGraph · n8n · NLP · ML
+AI                                 LangChain · LangGraph · n8n · NLP · ML
 
-Security         Fortinet · Wireshark · Burp Suite · Nessus
-                 Metasploit · Splunk · Suricata · Autopsy
+Security                           Fortinet · Wireshark · Burp Suite · Nessus
+                                   Metasploit · Splunk · Suricata · Autopsy
 
-Infrastructure   AWS · GCP · Docker · Kubernetes · Terraform
+Infrastructure                     AWS · GCP · Docker · Kubernetes · Terraform
 
-Data             PostgreSQL · MySQL · MongoDB · SQL Server
+Data                               PostgreSQL · MySQL · MongoDB · SQL Server
 
-Design           Figma · HCI · Data Visualization · D3
+Design                             Figma · HCI · Data Visualization · D3
 
 ---
 <div align="center">
