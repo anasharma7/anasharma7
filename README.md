@@ -24,22 +24,32 @@
 
 ---
 
-### ⬡ Current Focus
-I build and ship production-ready systems that integrate automated AI pipelines with growth-driven infrastructure.
-
-- **AI Operations:** Engineering automated AEO/SEO pipelines and LLM-integrated workflows.
-- **Product Implementation:** Shipping high-fidelity, experiment-ready interfaces and reporting systems.
-- **Applied Security:** Implementing automated QA, secure data privacy protocols, and network analysis.
-
----
-
-### ◈ Core Stack
-- **Development:** Python (FastAPI/Flask), JavaScript (React/Next.js), Swift, Java, SQL
-- **Systems & Security:** Network Traffic Analysis, IoMT Security, Digital Forensics, Linux
-- **Visual Engineering:** Figma, Procreate, HCI Principles, System Visualization
+### ⬡ Interest
+How applications work.
+How AI systems interact with them.
+How data moves through systems.
+How people behave inside technology.
+And how we make those systems harder to break.
 
 ---
 
+**◇ Current Stack**
+Languages        Python · JavaScript · Java · C++ · Swift · SQL
+
+Applications     React · Next.js · Django · FastAPI
+
+AI               LangChain · LangGraph · n8n · NLP · ML
+
+Security         Fortinet · Wireshark · Burp Suite · Nessus
+                 Metasploit · Splunk · Suricata · Autopsy
+
+Infrastructure   AWS · GCP · Docker · Kubernetes · Terraform
+
+Data             PostgreSQL · MySQL · MongoDB · SQL Server
+
+Design           Figma · HCI · Data Visualization · D3
+
+---
 <div align="center">
   <img src="./data-glitch.gif" width="100%" />
   <br />
